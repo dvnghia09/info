@@ -116,4 +116,8 @@
     .mu-img {
         width: 100%;
     }
+
+    .social-icon{
+        margin: 0 4px;
+    }
 }
