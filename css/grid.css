@@ -16,10 +16,10 @@
     margin-right: -4px;
 }
 
-.row.no-gutters {
+/* .row.no-gutters {
     margin-left: 10px;
     margin-right: 10px;
-}
+} */
 
 .col {
     padding-left: 4px;
@@ -27,8 +27,8 @@
 }
 
 .row.no-gutters .col {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 10;
+    padding-right: 10;
 }
 
 .c-0 {
